@@ -14,3 +14,5 @@ Kunci jawaban dapat dibuat oleh pengajar, guru, atau pembuat soal itu sendiri. S
 Selain itu, kunci jawaban dapat digunakan juga dalam bentuk komputerisasi dalam ujian komputer, yang membuat proses evaluasi menjadi lebih cepat dan efisien. Misalnya dengan OMR (Optical Mark Recognition) yang dapat mengenali jawaban yang diberikan oleh siswa dan diolah menjadi hasil nilai yang dapat dibaca secara otomatis.
 
 Kunci jawaban sangat berguna dalam proses belajar mengajar dan evaluasi hasil belajar. Membuat kunci jawaban yang benar dan sesuai dengan soal yang diberikan sangat penting agar dapat memberikan hasil evaluasi yang akurat dan dapat dipertanggung jawabkan.
+
+Untuk mengetahui kunci jawaban dari soal soal anda bisa mengunjungi website : <a href="https://deanmh.id/">Deanmh.id</a>
